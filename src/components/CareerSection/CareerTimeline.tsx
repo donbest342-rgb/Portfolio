@@ -3,22 +3,22 @@ import { Briefcase, Award, Layers, Users } from "lucide-react";
 
 export const CareerTimeline = () => {
   const careerEvents = [
-    {
-      year: "2024 – Till Date",
-      title: "Senior UI/UX & Web Designer",
-      subtitle: "G-Tech Group Int.",
-      description:
-        "Designed an Award winning user experience web app, got up to 4 star rating for my neat and clean work, mastered Wordpress and Figma which brings innovative ideas to life better than imagined.",
-      icon: <Layers className="h-4 w-4 mr-2 text-primary" />,
-    },
-    {
-      year: "2023 – Till Date",
-      title: "Full-Stack Developer",
-      subtitle: "G-Tech Group Int.",
-      description:
-        "Contributed to the creation of immersive web applications using React, and Node.js for high-profile clients. Reduced application load times by 70% through advanced performance optimization. Introduced component-driven workflows that became the company's standard practice.",
-      icon: <Briefcase className="h-4 w-4 mr-2 text-primary" />,
-    },
+    // {
+    //   year: "2024 – Till Date",
+    //   title: "Senior UI/UX & Web Designer",
+    //   subtitle: "G-Tech Group Int.",
+    //   description:
+    //     "Designed an Award winning user experience web app, got up to 4 star rating for my neat and clean work, mastered Wordpress and Figma which brings innovative ideas to life better than imagined.",
+    //   icon: <Layers className="h-4 w-4 mr-2 text-primary" />,
+    // },
+    // {
+    //   year: "2023 – Till Date",
+    //   title: "Full-Stack Developer",
+    //   subtitle: "G-Tech Group Int.",
+    //   description:
+    //     "Contributed to the creation of immersive web applications using React, and Node.js for high-profile clients. Reduced application load times by 70% through advanced performance optimization. Introduced component-driven workflows that became the company's standard practice.",
+    //   icon: <Briefcase className="h-4 w-4 mr-2 text-primary" />,
+    // },
     {
       year: "2022 – 2023",
       title: "Senior Graphic Designer",

@@ -33,9 +33,9 @@ export const EducationSection = () => {
         >
           <Card>
             <CardHeader>
-              <CardTitle>B.Sc. in Computer Science</CardTitle>
+              <CardTitle>Secondary School Certificate (WAEC and NECO) </CardTitle>
               <p className="text-sm text-muted-foreground">
-                Federal University of Technology Owerri — 2023 – Till Date
+                St Saviour's Secondary School Umuaka — 2017 – 2023
               </p>
             </CardHeader>
             <CardContent className="text-xs text-muted-foreground space-y-2">
@@ -45,17 +45,17 @@ export const EducationSection = () => {
                 <strong> Artificial Intelligence Applications</strong>.
               </p>
               <ul className="list-disc list-inside space-y-1">
-                <li>Thesis on Machine Learning for Predictive Analytics</li>
-                <li>Led a research project on Cloud-Based ERP solutions</li>
-                <li>Published 2 papers in IEEE conferences</li>
+                <li>Assigned as Assembly Prefect of the school</li>
+                <li>Performed duties excellently, ensuring smooth coordination of school Assembly and student acitvities.</li>
+                <li>Lead work in the computer lab by setting up computer systems, contributing to efficient lab operations and student learning.</li>
               </ul>
             </CardContent>
           </Card>
           <Card>
             <CardHeader>
-              <CardTitle>SSC Information Technology</CardTitle>
+              <CardTitle>Certificate For Desktop Publishing</CardTitle>
               <p className="text-sm text-muted-foreground">
-                Anna University — 2014 – 2020
+                Tripple C Mirco Systems — 2021 – 2022
               </p>
             </CardHeader>
             <CardContent className="text-xs text-muted-foreground space-y-2">
@@ -67,7 +67,46 @@ export const EducationSection = () => {
               <ul className="list-disc list-inside space-y-1">
                 <li>Top 60% in Computer Appreciation and Desktop Publishing</li>
                 <li>Created and lead a Computer Club and organized pracital lessons</li>
-                <li>Organized annual tech fest for 3 consecutive years</li>
+                <li>Graduated and got Certified as the Top Student of my Set</li>
+              </ul>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardHeader>
+              <CardTitle>Web & UI/UX Design Certification</CardTitle>
+              <p className="text-sm text-muted-foreground">
+                Whoba Ogo Foundation ICT Center, Owerri — 2025
+              </p>
+            </CardHeader>
+            <CardContent className="text-xs text-muted-foreground space-y-2">
+              <p>
+                Mastered WordPress design,<strong> plugin integration,</strong>
+                <strong> customization,</strong>, and
+                <strong>  responsive layout construction.</strong>.
+              </p>
+              <ul className="list-disc list-inside space-y-1">
+                <li>Acquired a technical foundation in building functional, aesthetic websites</li>
+                <li>Specialized in WordPress development, moving beyond templates to create custom user experiences</li>
+                <li>My training emphasized the intersection of visual design and technical performance, ensuring sites are both beautiful and easy to navigate</li>
+              </ul>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardHeader>
+              <CardTitle>Full Stack Web Development Program</CardTitle>
+              <p className="text-sm text-muted-foreground">
+                Whoba Ogo Foundation ICT Center, Owerri — 2025
+              </p>
+            </CardHeader>
+            <CardContent className="text-xs text-muted-foreground space-y-2">
+              <p>
+                Mastered Building scalable,<strong> Secured,</strong>
+                <strong> high-performance digital solutions from the ground up.</strong>.
+              </p>
+              <ul className="list-disc list-inside space-y-1">
+                <li>I mastered the art of building complete web ecosystems</li>
+                <li>integrating front-end aesthetics with robust back-end functionality</li>
+                <li>With a foundation in WordPress development and custom coding, I bridge the gap between user experience and technical infrastructure to deliver seamless web applications</li>
               </ul>
             </CardContent>
           </Card>

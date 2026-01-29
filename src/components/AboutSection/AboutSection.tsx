@@ -13,7 +13,7 @@ export const AboutSection = () => {
     >
       <h2 className="text-3xl font-bold">About Me</h2>
       <p className="text-muted-foreground text-sm max-w-3xl">
-        I am a seasoned Full-Stack Developer and UI/UX Designer with over 3
+        I am a seasoned Full-Stack Developer and UI/UX Designer with less than a
         years of experience delivering high-quality software solutions for
         global enterprises and startups. My career blends deep technical
         expertise with Teamwork skills, enabling me to design, build, work with a
