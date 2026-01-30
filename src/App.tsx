@@ -5,7 +5,7 @@ import Header from "./components/Header/Header";
 import { HeroSection } from "./components/HeroSection/HeroSection";
 import StripedBackground from "./components/lightswind/StripedBackground";
 import { AboutSection } from "./components/AboutSection/AboutSection";
-import { ProjectsSection } from "./components/ProjectsSection/ProjectsSection";
+// import { ProjectsSection } from "./components/ProjectsSection/ProjectsSection";
 import { EducationSection } from "./components/EducationSection/EducationSection";
 import { CareerTimeline } from "./components/CareerSection/CareerTimeline";
 import ReactLenis from "lenis/react";
@@ -106,9 +106,9 @@ function App() {
             <div id="career">
               <CareerTimeline />
             </div>
-            <div id="projects">
+            {/* <div id="projects">
               <ProjectsSection />
-            </div>
+            </div> */}
           </div>
         </div>
 
